@@ -20,7 +20,7 @@ const Footer = () => {
       variant="h6"
       sx={{fontSize: 18}}
     >
-      Designed and developed by
+      Designed With Love 
       <Button
           sx={{
             mx: 0.5,
@@ -31,7 +31,7 @@ const Footer = () => {
           variant="text"
           color="primary"
         >
-          Ali Hassan
+          
         </Button>
       ©2023
     </Typography>
